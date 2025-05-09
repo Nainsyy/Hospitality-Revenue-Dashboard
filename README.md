@@ -23,7 +23,7 @@ Inefficient forecasting and decision-making due to delayed or manual reporting
 ## 📊 Tools & Technologies Used
 
 - SQL
-- Power BI / Tableau
+- Power BI 
 - Python (Pandas, NumPy, Matplotlib)
 - Excel
 - Git & GitHub
